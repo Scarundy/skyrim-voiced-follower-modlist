@@ -11,3 +11,17 @@
     reference: 803
     lines: 1837
     name: Idrinth Thalui
+
+- name: Sa'chil - Custom Voiced Khajiit Follower
+  link: UNRELEASED
+  file: SU04SachilFollower.esp
+  description: Sa'chil is a Dagi-Raht Khajiit Spellsword from Hammerfell.
+  author: Scarundy
+  adult-only: false
+  version: W.I.P
+  followers:
+  - name: Sa'chil
+    race: Dagi-Raht (Custom Khajiit Race)
+    sex: female
+    reference: 316
+    lines: 3.200
